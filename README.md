@@ -71,7 +71,7 @@ http://localhost/wdfphppract/
 |---|---|---|---|
 | **Admin** | `admin` (or `admin@studenthub.com`) | `admin123` | `admin_dashboard.php` |
 | **Student** | `student` (or `student@studenthub.com`) | `student123` | `dashboard.php` |
-| **Student (Manali)** | `manali` (or `manali@studenthub.com`) | `manali123` | `dashboard.php` |
+| **Student** | `dkp` (or `dkp@studenthub.com`) | `dkp123` | `dashboard.php` |
 
 ---
 
